@@ -96,9 +96,6 @@ function App() {
 							This app was inspired by the amazing people who facilitate
 							recovery meetings in Nottingham UK and their hard work and
 							deication to help people through their recovery at the
-							<b>Nottingham Recovery Network</b>.
-						</p>
-						<p>
 							<a
 								href='https://www.nottinghamrecoverynetwork.com/'
 								target='_blank'
@@ -109,7 +106,6 @@ function App() {
 						</p>
 
 						<p>
-							<br />
 							<b>
 								<u>FEEDBACK</u>
 							</b>
