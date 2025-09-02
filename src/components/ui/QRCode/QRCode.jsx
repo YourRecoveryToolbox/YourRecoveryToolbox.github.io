@@ -10,7 +10,12 @@ const QRCode = ({ label }) => {
 	return (
 		<div className='QRCode'>
 			<div>{label}</div>
-			<img src={theme === 'light' ? QRCodeIcon : QRCodeIconDark} alt='QRCode' />
+			<img
+				src={theme === 'light' ? QRCodeIcon : QRCodeIconDark}
+				alt='QRCode'
+				width='318'
+				height='318'
+			/>
 		</div>
 	);
 };
