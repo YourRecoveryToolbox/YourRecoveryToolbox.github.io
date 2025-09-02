@@ -8,7 +8,11 @@ const ButtonUpdate = ({ label }) => {
 
 	return (
 		<div className='update-icon btn'>
-			<button onClick={handleClick} className='update-btn'>
+			<button
+				onClick={handleClick}
+				className='update-btn'
+				aria-label={'Update App '}
+			>
 				<div>
 					<div dangerouslySetInnerHTML={{ __html: UpdateIcon }} />
 				</div>

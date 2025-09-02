@@ -10,6 +10,7 @@ export function BackgroundOption({ icon, option, label }) {
 		<button
 			className={'backgroundOption' + ' ' + classActive + ' theme-' + option}
 			data-option={option}
+			aria-label={'Change theme to ' + option}
 			onClick={(e) => {
 				const target = e.currentTarget;
 				target.classList.add('active');

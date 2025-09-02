@@ -7,7 +7,9 @@ import PropTypes from 'prop-types';
 const ButtonScenario = ({ label, callback }) => {
 	return (
 		<div className='btn scenario' onClick={callback}>
-			<Button variant='outline'>{label}</Button>
+			<Button variant='outline' aria-label={'Scenario ' + label}>
+				{label}
+			</Button>
 		</div>
 	);
 };

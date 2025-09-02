@@ -44,7 +44,11 @@ const ButtonFontSize = ({ size, label }) => {
 	};
 	return (
 		<div className='btn' onClick={handleClick}>
-			<Button variant='outline' className={'font-size-btn-' + size}>
+			<Button
+				variant='outline'
+				className={'font-size-btn-' + size}
+				aria-label={'Font Size ' + label}
+			>
 				<div dangerouslySetInnerHTML={{ __html: icon }} alt={alt} />
 			</Button>
 			<div>{label}</div>
