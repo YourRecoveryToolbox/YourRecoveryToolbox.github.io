@@ -1,6 +1,6 @@
 {
-	"name": "The SMART toolbox",
-	"short_name": "SMARTTools",
+	"name": "Your Recovery toolbox",
+	"short_name": "RecoveryToolbox",
 	"start_url": "/index.html",
 	"display": "standalone",
 	"background_color": "#ffffff",
