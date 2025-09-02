@@ -32,6 +32,7 @@ const Favourite = ({ id, className }) => {
 		<button
 			className={className + ' AccordionItemFavourite '}
 			onClick={handleClick}
+			aria-label='Add to favourites'
 		>
 			<div
 				dangerouslySetInnerHTML={{ __html: icon }}
