@@ -135,9 +135,9 @@ function App() {
 							</u>
 						</p>
 						<p>
-							Drop us an email at with your feedback.
+							Drop us an email at the address below with your feedback.
 							<br /> <br />
-							<a href='mailto:yourrecoverytoolbox@gmail.com?subject=The Recovery Toolbox Feedback'>
+							<a href='mailto:yourrecoverytoolbox@gmail.com?subject=The%20Recovery%20Toolbox%20Feedback'>
 								yourrecoverytoolbox@gmail.com
 							</a>
 						</p>
