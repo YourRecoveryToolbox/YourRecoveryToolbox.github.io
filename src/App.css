@@ -89,11 +89,13 @@ body {
 	margin: 0;
 }
 .header .logo {
-	height: 18vh;
+	/* height: 18vh;
 	max-height: 300px;
-	min-height: 100px;
+	min-height: 100px; */
 	padding-top: 1em;
 	will-change: filter;
+	width: 131px;
+	height: 136px;
 	transition: filter 300ms;
 }
 
