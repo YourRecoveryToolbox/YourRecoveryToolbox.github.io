@@ -12,8 +12,8 @@ const Logo = () => {
 				src={theme === 'light' ? smartLogoDark : smartLogo}
 				className='logo'
 				alt='Your Recovery toolbox logo'
-				width='131'
-				height='136'
+				width='136'
+				height='131'
 			/>
 		</div>
 	);
