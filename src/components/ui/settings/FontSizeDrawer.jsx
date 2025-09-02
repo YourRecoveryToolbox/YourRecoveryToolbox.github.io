@@ -12,9 +12,7 @@ import './styles.css';
 import ButtonFontSize from '../buttons/ButtonFontSize.jsx';
 
 import ButtonFontSettings from '../buttons/settings/ButtonFontSettings.jsx'; // import FontSettings from '../buttons/settings/ButtonSettings.jsx';
-import useThemeStore from '@/src/themeStore';
 export function FontSizeDrawer() {
-	const sub = useThemeStore.subscribe(console.log);
 	return (
 		<Drawer>
 			<DrawerTrigger asChild>

@@ -9,11 +9,9 @@ import {
 	DialogTitle,
 	DialogTrigger,
 } from '@/components/ui/dialog';
-// import { Input } from '@/components/ui/input';
-// import { Label } from '@/components/ui/label';
+
 import PropTypes from 'prop-types';
 import './styles.css';
-// import classNames from 'classnames';
 
 function ScenarioDialog({ btnLabel, title, content }) {
 	return (

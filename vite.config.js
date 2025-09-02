@@ -4,10 +4,10 @@ import react from '@vitejs/plugin-react';
 import commonjs from 'vite-plugin-commonjs';
 //import react from "@vitejs/plugin-react-swc"; *for swc install
 const __dirname = path.dirname('./src');
-// const version = Date.now().toString(6);
+import cssInjectedByJsPlugin from 'vite-plugin-css-injected-by-js';
 // https://vitejs.dev/config/
 export default defineConfig({
-	plugins: [react(), commonjs()],
+	plugins: [react(), commonjs(), cssInjectedByJsPlugin()],
 	resolve: {
 		alias: {
 			'@': path.resolve(__dirname),

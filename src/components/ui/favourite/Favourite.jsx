@@ -29,7 +29,7 @@ const Favourite = ({ id, className }) => {
 	};
 
 	return (
-		<button
+		<div
 			className={className + ' AccordionItemFavourite '}
 			onClick={handleClick}
 			aria-label='Add to favourites'
@@ -39,7 +39,7 @@ const Favourite = ({ id, className }) => {
 				className={imgClassName}
 				alt='Favourite Icon'
 			/>
-		</button>
+		</div>
 	);
 };
 Favourite.propTypes = {

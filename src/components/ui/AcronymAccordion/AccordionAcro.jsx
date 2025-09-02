@@ -4,7 +4,7 @@ import { Accordion } from 'radix-ui';
 import ScenarioDialog from '../dialog/ScenarioDialog';
 import { ChevronDownIcon } from '@radix-ui/react-icons';
 import './styles.css';
-import './scenariosStyles.css';
+import './scenariosStyles.css?inline';
 import PropTypes from 'prop-types';
 import classNames from 'classnames';
 import data from '../../../data/data.js';
