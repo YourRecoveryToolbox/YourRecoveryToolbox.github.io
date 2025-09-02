@@ -137,7 +137,11 @@ function App() {
 						<p>
 							Drop us an email at the address below with your feedback.
 							<br /> <br />
-							<a href='mailto:yourrecoverytoolbox@gmail.com?subject=The%20Recovery%20Toolbox%20Feedback'>
+							<a
+								href='mailto:yourrecoverytoolbox@gmail.com?subject=The%20Recovery%20Toolbox%20Feedback'
+								target='_blank'
+								rel='noopener noreferrer'
+							>
 								yourrecoverytoolbox@gmail.com
 							</a>
 						</p>
