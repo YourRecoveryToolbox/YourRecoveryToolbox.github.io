@@ -94,8 +94,6 @@ body {
 	min-height: 100px; */
 	padding-top: 1em;
 	will-change: filter;
-	width: 131px;
-	height: 136px;
 	transition: filter 300ms;
 }
 
