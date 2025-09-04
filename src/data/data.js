@@ -217,7 +217,7 @@ const data = [
 			{
 				title: 'Gambling Urge Imagery',
 				content:
-					'You start visualizing winning big at the casino. <br /> <br /> Recognize this as destructive imagery, become aware of the pattern, refuse to engage with the fantasy, and replace it with images of financial stability and peace of mind.',
+					'<b>You start visualizing winning big at the casino.</b> <br /> <br /><b>Recognize this as destructive imagery</b>,<br /> <u>become aware of the pattern</u>,<br /> <b>refuse to engage with the fantasy</b>,<br /><br /> and <u>replace it with images of financial stability <br />and peace of mind.</u>',
 				btnLabel: 'Block the Fantasy',
 			},
 			{
@@ -366,13 +366,13 @@ const data = [
 			{
 				title: 'Career vs. Family Time Decision',
 				content:
-					'Your job offers overtime but the kids have a recital. <br /> <br /> <b>Your hierarchy:</b> <br />Family relationships, <br />personal health, <br />financial stability, <br />career advancement. <br /><br /> <u>Since family tops your list</u>, the choice becomes clear - <u>attend the recital.</u>',
+					'Your job offers overtime but the kids have a recital. <br /> <br /> <b>Your hierarchy:</b> <br /><u>Family relationships</u>, <br /><u>personal health</u>, <br /><u>financial stability</u>, <br /><u>career advancement</u>. <br /><br /> <u>Since family tops your list</u>, the choice becomes clear - <u>attend the recital.</u>',
 				btnLabel: 'Choose Values',
 			},
 			{
 				title: 'Friend Wants You to Skip Therapy',
 				content:
-					'Friend wants to hang out during your therapy session.<br /><br /><b>Your values hierarchy:</b><br /> Mental health, <br />authentic relationships, <br />fun/socializing. <br /><br /> Explain that therapy is non-negotiable and suggest meeting afterward.',
+					'Friend wants to hang out during your therapy session.<br /><br /><b>Your values hierarchy:</b><br /> <u>Mental health</u>, <br /><u>Authentic relationships</u>, <br /><u>Fun/socializing</u>. <br /><br /> Explain that <b>therapy is non-negotiable</b> and suggest meeting afterward.',
 				btnLabel: 'Rank Priorities',
 			},
 		],
@@ -456,7 +456,7 @@ const data = [
 			{
 				title: 'Traffic Jam Meltdown',
 				content:
-					"Stuck in traffic, <br />running late,<br /> patience is gone. <br /><br />Recognize your low frustration tolerance, accept that this sucks but isn't dangerous, practice breathing instead of road rage. <br /><br />Build tolerance for things outside your control.",
+					"Stuck in traffic, <br />running late,<br /> patience is gone. <br /><br />Recognize your <u>low frustration tolerance</u>, <br /><u>accept that this sucks but isn't dangerous</u>,<br /><u>practice breathing instead of road rage.</u> <br /><br />Build tolerance for things outside your control.",
 				btnLabel: 'Stay Cool',
 			},
 			{
@@ -606,7 +606,7 @@ const data = [
 				},
 			],
 			explanation:
-				'<b>A memorable recovery slogan:></b><br /> Piss Poor Planning leads to Piss Poor Performance. <br />It’s a tough-love reminder that preparation directly impacts outcomes. <u>The more effort you put into planning, the stronger your recovery performance will be.</u>',
+				'<b>A memorable recovery slogan:</b><br /> Piss Poor Planning leads to Piss Poor Performance. <br />It’s a tough-love reminder that preparation directly impacts outcomes. <u>The more effort you put into planning, the stronger your recovery performance will be.</u>',
 		},
 		scenarios: [
 			{

@@ -158,7 +158,17 @@ function App() {
 							</b>
 							<br />
 							<br />
-							<b>Big up yourself, you are stronger than you think.</b>
+							<u className='big'>
+								<b>Big up yourself,</b>
+							</u>
+							<u className='big'>
+								<b>you are stronger</b>
+							</u>
+							<u className='big'>
+								<b>than you think.</b>
+							</u>
+							<br />
+							<div className='big4 r90'>:)</div>
 						</p>
 					</div>
 				</div>

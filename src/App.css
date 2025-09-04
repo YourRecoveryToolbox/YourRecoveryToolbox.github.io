@@ -54,6 +54,15 @@ body {
 	flex-direction: column;
 	row-gap: 0.25rem;
 }
+.big {
+	font-size: 2rem;
+}
+.big4 {
+	font-size: 4rem;
+}
+.r90 {
+	transform: rotate(90deg);
+}
 .footer {
 	display: flex;
 	flex-direction: column;
