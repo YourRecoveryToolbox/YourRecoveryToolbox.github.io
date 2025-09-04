@@ -151,7 +151,7 @@ const data = [
 			{
 				title: 'Craving Alcohol at a Party',
 				content:
-					"<b>Delay:</b><br />  'I'll wait 15 minutes first.'<br /> <br />  <b>Escape:</b> Step outside or go to the bathroom.<br /> <br />  <b>Accept:</b><br />  'This urge will pass.'<br /> <br />  <b>Distract:</b><br />  Start a conversation with someone new.<br /> <br />  <b>Substitute:</b><br />  Grab a mocktail or soda instead.",
+					"<b>Delay:</b><br />  'I'll wait 15 minutes first.'<br /> <br />  <b>Escape:</b><br />  Step outside or go to the bathroom.<br /> <br />  <b>Accept:</b><br />  'This urge will pass.'<br /> <br />  <b>Distract:</b><br />  Start a conversation with someone new.<br /> <br />  <b>Substitute:</b><br />  Grab a mocktail or soda instead.",
 				btnLabel: 'Beat the Craving',
 			},
 			{
