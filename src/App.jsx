@@ -112,8 +112,8 @@ function App() {
 							</b>
 						</p>
 						<p>
-							Like all of us gong through recovery, these tools and this app can
-							only get better and improve if we know what works, what
+							Like all of us going through recovery, these tools and this app
+							can only get better and improve if we know what works, what
 							doesn&apos;t, what you like and what you don&apos;t like.
 						</p>
 						<p>
