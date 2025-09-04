@@ -123,10 +123,9 @@ function App() {
 						<p>
 							<b>Positive or negative</b> we want to hear your thoughts.{' '}
 							<u>Have a rant if you need to</u>, but just let us know what{' '}
-							<b>you like</b> and
-							<b>what you don&apos;t like</b>. <br /> <br />
+							<b>you like and what you don&apos;t like</b>. <br /> <br />
 							<u>
-								ALL feeback is appreciated and
+								ALL feedback is appreciated and
 								<br />
 								we get stronger together
 							</u>
@@ -155,7 +154,7 @@ function App() {
 							<br />
 							We can&apos;t guarantee a reply straight away but
 							<b>
-								<u>we will get back to you. That&apos;t our promise.</u>
+								<u>we will get back to you. That&apos;s our promise.</u>
 							</b>
 							<br />
 							<br />
