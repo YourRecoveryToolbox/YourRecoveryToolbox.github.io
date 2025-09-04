@@ -50,6 +50,9 @@ body {
 	position: absolute;
 	top: 12px;
 	left: 12px;
+	display: flex;
+	flex-direction: column;
+	row-gap: 0.25rem;
 }
 .footer {
 	display: flex;

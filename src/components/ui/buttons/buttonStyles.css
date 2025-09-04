@@ -6,7 +6,6 @@
 	fill: var(--primary);
 }
 .btn {
-	width: 60px;
 	height: 80px;
 	border: none;
 	background-color: transparent;

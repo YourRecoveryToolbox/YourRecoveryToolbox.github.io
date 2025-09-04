@@ -24,7 +24,7 @@ const ShareIcon = () => {
 			)}
 			{isIOS && <div dangerouslySetInnerHTML={{ __html: ShareIconApple }} />}
 			{isAndroid === null && isIOS === null && (
-				<div dangerouslySetInnerHTML={{ __html: ShareIconAndroid }} />
+				<div dangerouslySetInnerHTML={{ __html: ShareIconApple }} />
 			)}
 		</div>
 	);
