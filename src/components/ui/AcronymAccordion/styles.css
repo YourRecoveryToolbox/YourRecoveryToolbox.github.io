@@ -183,14 +183,6 @@ div[data-state='open'] .AccordionContentText {
 	margin-bottom: 1rem;
 	/* padding: 1rem 0; */
 }
-/* .AccordionContent[data-state='open'] {
-	transition: all 5000ms ease-out;
-	animation: slideDown 4000ms ease-out;
-}
-.AccordionContent[data-state='closed'] {
-	transition: all 5000ms ease-out;
-	animation: slideDown 4000ms ease-out;
-} */
 .AccordionItem[data-state='open'] .AccordionTriggerTitle {
 	width: 100%;
 	word-break: break-all;
@@ -213,7 +205,6 @@ div[data-state='open'] .AccordionContentText {
 }
 .AccordionContent[data-state='open'] {
 	animation: slideDown 200ms ease-out; /*(0.87, 0, 0.13, 1); */
-	/* padding-bottom: 1.5rem; */
 }
 .AccordionContent[data-state='closed'] {
 	animation: slideUp 200ms ease-out; /*(0.87, 0, 0.13, 1); */
