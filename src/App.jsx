@@ -145,11 +145,7 @@ function App() {
 							<b>
 								<u>Our promise is that </u>
 							</b>
-							<u> we read every email</u>
-							<br />
-							and if you want to give your contact details in your email,
-							<br />
-							<u>we will get back to you.</u>
+							<u> we read every email.</u>
 							<br />
 							<br />
 							We can&apos;t guarantee a reply straight away but
