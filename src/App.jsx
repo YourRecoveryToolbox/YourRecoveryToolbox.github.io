@@ -164,7 +164,7 @@ function App() {
 								<b>than you think.</b>
 							</u>
 							<br />
-							<div className='big4 r90'>:)</div>
+							<span className='big4 r90'>:)</span>
 						</p>
 					</div>
 				</div>

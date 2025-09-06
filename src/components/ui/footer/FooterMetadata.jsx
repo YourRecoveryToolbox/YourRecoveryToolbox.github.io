@@ -1,4 +1,4 @@
-import metadata from '../../../../src/metadata.json';
+import metadata from '@/src/metadata.json';
 import './styles.css';
 function FooterMetadata() {
 	return (
