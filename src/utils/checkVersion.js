@@ -24,7 +24,7 @@ const compareVersions = (remoteVersion, localVersion) => {
 		localVersion.buildMinor,
 		localVersion.buildRevision,
 	];
-
+	console.log('remoteVersionArray', remoteVersionArray);
 	for (let i = 0; i < 3; i++) {
 		if (remoteVersionArray[i] > localVersionArray[i]) {
 			return true; // Remote version is newer

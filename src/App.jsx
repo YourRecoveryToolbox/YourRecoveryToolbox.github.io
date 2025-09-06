@@ -142,18 +142,6 @@ function App() {
 							</a>
 						</p>
 						<p>
-							<b>
-								<u>Our promise is that </u>
-							</b>
-							<u> we read every email.</u>
-							<br />
-							<br />
-							We can&apos;t guarantee a reply straight away but
-							<b>
-								<u>we will get back to you. That&apos;s our promise.</u>
-							</b>
-							<br />
-							<br />
 							<u className='big'>
 								<b>Big up yourself,</b>
 							</u>
