@@ -7,7 +7,7 @@ const __dirname = path.dirname('./src');
 import cssInjectedByJsPlugin from 'vite-plugin-css-injected-by-js';
 // https://vitejs.dev/config/
 export default defineConfig({
-	plugins: [react(), commonjs(), cssInjectedByJsPlugin()],
+	plugins: [react(), commonjs()],
 	resolve: {
 		alias: {
 			'@': path.resolve(__dirname),

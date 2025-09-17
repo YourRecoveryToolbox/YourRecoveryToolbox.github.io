@@ -62,6 +62,7 @@ body {
 }
 .r90 {
 	transform: rotate(90deg);
+	display: block;
 }
 .footer {
 	display: flex;
